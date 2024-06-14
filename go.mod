@@ -3,10 +3,10 @@ module github.com/alpacahq/alpaca-trade-api-go/v3
 go 1.19
 
 require (
-	cloud.google.com/go v0.99.0
+	cloud.google.com/go v0.115.0
 	github.com/RobinUS2/golang-moving-average v1.0.0
 	github.com/mailru/easyjson v0.7.7
-	github.com/shopspring/decimal v1.3.1
+	github.com/shopspring/decimal v1.4.0
 	github.com/stretchr/testify v1.7.0
 	github.com/vmihailenco/msgpack/v5 v5.3.0
 	nhooyr.io/websocket v1.8.10
@@ -14,7 +14,7 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/google/go-cmp v0.5.8 // indirect
+	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
